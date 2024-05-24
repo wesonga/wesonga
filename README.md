@@ -1,3 +1,3 @@
 # Welcome to My GitHub Profile!
 
-![Header]('bob.gif')
+![Header](https://github.com/wesonga/wesonga/blob/main/bob.gif)
