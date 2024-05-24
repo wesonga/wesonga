@@ -8,7 +8,7 @@ Join me on a journey fueled by passion where I learn, relearn, explore, experime
 ### Favorite License
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg) 
-Who doesn't love a good 'Do Whatever You Want' license?
+Who doesn't love a good 'Do Whatever You Want' license?\
 
 
 ### Languages
