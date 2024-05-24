@@ -35,6 +35,8 @@ Join me on a journey fueled by passion where I learn, relearn, explore, experime
 
 ### Technologies
 
+### Technologies
+
 ![iOS](https://img.shields.io/badge/-iOS-000?&logo=iOS)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
@@ -58,10 +60,21 @@ Join me on a journey fueled by passion where I learn, relearn, explore, experime
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=CircleCI)
 ![New Relic](https://img.shields.io/badge/-New_Relic-000?&logo=New%20Relic)
-![Payment Integration](https://img.shields.io/badge/-Payment_Integration-000?&logo=Payment)
-![Routing](https://img.shields.io/badge/-Routing-000?&logo=Routing)
-![State Management](https://img.shields.io/badge/-State_Management-000?&logo=State)
-![NoSQL](https://img.shields.io/badge/-NoSQL-000?&logo=NoSQL)
+![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=Stripe)
+![PayPal](https://img.shields.io/badge/-PayPal-000?&logo=PayPal)
+![Square](https://img.shields.io/badge/-Square-000?&logo=Square)
+![Braintree](https://img.shields.io/badge/-Braintree-000?&logo=Braintree)
+![React Router](https://img.shields.io/badge/-React_Router-000?&logo=React%20Router)
+![Vue Router](https://img.shields.io/badge/-Vue_Router-000?&logo=Vue.js)
+![Angular Router](https://img.shields.io/badge/-Angular_Router-000?&logo=Angular)
+![React Navigation](https://img.shields.io/badge/-React_Navigation-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Vuex](https://img.shields.io/badge/-Vuex-000?&logo=Vue.js)
+![NGRX](https://img.shields.io/badge/-NGRX-000?&logo=Angular)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![CouchDB](https://img.shields.io/badge/-CouchDB-000?&logo=Apache%20CouchDB)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)
+![Firebase Firestore](https://img.shields.io/badge/-Firebase_Firestore-000?&logo=Firebase)
 ![Sentry](https://img.shields.io/badge/-Sentry-000?&logo=Sentry)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
