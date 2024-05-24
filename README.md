@@ -16,10 +16,6 @@ Join me on a journey fueled by passion where I learn, relearn, explore, experime
 
 ### Languages
 
-### Languages
-
-### Languages
-
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Objective-C](https://img.shields.io/badge/-Objective--C-000?&logo=Apple&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
