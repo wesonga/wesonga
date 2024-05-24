@@ -1,6 +1,6 @@
-# Ahoy 👋, code connoisseurs and tech adventurers! 🪐
+# Ahoy 👋 🪐
 
-Join me on a journey fueled by passion where I learn, relearn, explore, experiment, and innovate with a diverse array of tools and tech stacks.
+Canvas to learn, relearn, explore, experiment, and innovate with a diverse array of tools and tech stacks.
 
 
 ![Header](https://github.com/wesonga/wesonga/blob/main/bob.gif)
