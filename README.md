@@ -16,12 +16,18 @@ Join me on a journey fueled by passion where I learn, relearn, explore, experime
 
 ### Languages
 
+### Languages
+
+### Languages
+
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Objective-C](https://img.shields.io/badge/-Objective--C-000?&logo=Apple&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -30,6 +36,7 @@ Join me on a journey fueled by passion where I learn, relearn, explore, experime
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp&logoColor=239120)
+
 
 
 ## Technologies
