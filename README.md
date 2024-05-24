@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="img/bob.mp4" width="100"/>
+  <img src="img/bob.gif" width="100"/>
 </div>
