@@ -1,3 +1,3 @@
 # Welcome to My GitHub Profile!
 
-![Header]('img/bob.gif')
+![Header]('bob.gif')
