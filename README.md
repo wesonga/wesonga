@@ -13,3 +13,7 @@ Join me on a journey fueled by passion where I learn, relearn, explore, experime
 - **Web Whisperer**: Captivating websites
 - **Data Druid**: Insightful data analysis
 - **AI Alchemist**: Intelligent systems
+
+## Languages
+
+## Technologies
