@@ -5,6 +5,11 @@ Join me on a journey fueled by passion where I learn, relearn, explore, experime
 
 ![Header](https://github.com/wesonga/wesonga/blob/main/bob.gif)
 
+### Favorite License
+
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg) - Because who doesn't love a good 'Do Whatever You Want' license?
+
+
 ### Languages
 
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
