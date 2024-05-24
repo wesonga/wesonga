@@ -5,15 +5,6 @@ Join me on a journey fueled by passion where I learn, relearn, explore, experime
 
 ![Header](https://github.com/wesonga/wesonga/blob/main/bob.gif)
 
-
-## What I Do
-
-- **Full Stack Conjuror**: Seamless user experiences, frontend to backend.
-- **Mobile Magic**: Elegant apps for iOS/Android/Cross-platform
-- **Web Whisperer**: Captivating websites
-- **Data Druid**: Insightful data analysis
-- **AI Alchemist**: Intelligent systems
-
 ### Languages
 
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
@@ -32,8 +23,6 @@ Join me on a journey fueled by passion where I learn, relearn, explore, experime
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp&logoColor=239120)
-
-### Technologies
 
 ### Technologies
 
