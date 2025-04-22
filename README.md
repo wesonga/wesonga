@@ -56,6 +56,18 @@ Who doesn't love a good 'Do Whatever You Want' license?
 
 ---
 
+#### Business Intelligence & Visualization
+
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-000?&logo=Microsoft%20Excel)
+![Power BI](https://img.shields.io/badge/-Power_BI-000?&logo=Power%20BI)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
+![Looker](https://img.shields.io/badge/-Looker-000?&logo=Looker)
+![Google Data Studio](https://img.shields.io/badge/-Google_Data_Studio-000?&logo=Google%20Analytics)
+![Metabase](https://img.shields.io/badge/-Metabase-000?&logo=Metabase)
+![Superset](https://img.shields.io/badge/-Apache_Superset-000?&logo=Apache)
+
+---
+
 #### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon%20AWS)
