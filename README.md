@@ -39,10 +39,24 @@ Who doesn't love a good 'Do Whatever You Want' license?
 ![Redshift](https://img.shields.io/badge/-Redshift-000?&logo=Amazon%20Redshift)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Delta Lake](https://img.shields.io/badge/-Delta_Lake-000?&logo=Delta)
+![Apache NiFi](https://img.shields.io/badge/-Apache_NiFi-000?&logo=Apache)
 
 ---
 
-#### Data Science & Analytics
+#### NoSQL & Document Stores
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Cassandra](https://img.shields.io/badge/-Cassandra-000?&logo=Apache%20Cassandra)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)
+![Couchbase](https://img.shields.io/badge/-Couchbase-000?&logo=Couchbase)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
+
+---
+
+#### Data Science & Machine Learning
 
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
@@ -53,6 +67,8 @@ Who doesn't love a good 'Do Whatever You Want' license?
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
+![MLflow](https://img.shields.io/badge/-MLflow-000?&logo=MLflow)
+![Great Expectations](https://img.shields.io/badge/-Great_Expectations-000?&logo=Great%20Expectations)
 
 ---
 
@@ -65,6 +81,19 @@ Who doesn't love a good 'Do Whatever You Want' license?
 ![Google Data Studio](https://img.shields.io/badge/-Google_Data_Studio-000?&logo=Google%20Analytics)
 ![Metabase](https://img.shields.io/badge/-Metabase-000?&logo=Metabase)
 ![Superset](https://img.shields.io/badge/-Apache_Superset-000?&logo=Apache)
+![Qlik](https://img.shields.io/badge/-Qlik-000?&logo=Qlik)
+![IBM Cognos](https://img.shields.io/badge/-IBM_Cognos-000?&logo=IBM)
+![Alteryx](https://img.shields.io/badge/-Alteryx-000?&logo=Alteryx)
+![Sigma Computing](https://img.shields.io/badge/-Sigma_Computing-000?&logo=Sigma)
+
+---
+
+#### Monitoring, Observability & Logging
+
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Elastic Stack](https://img.shields.io/badge/-ELK_Stack-000?&logo=Elasticsearch)
+![Sentry](https://img.shields.io/badge/-Sentry-000?&logo=Sentry)
 
 ---
 
