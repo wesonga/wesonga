@@ -101,7 +101,7 @@ Who doesn't love a good 'Do Whatever You Want' license?
 
 ![AWS](https://img.shields.io/badge/AWS-000?logo=amazon-web-services)
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google%20Cloud)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft%20Azure)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-000?logo=msazure)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
