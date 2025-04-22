@@ -1,6 +1,8 @@
 # Ahoy 👋 🪐
 
-Canvas to learn, relearn, explore, experiment, and innovate with a diverse array of tools and tech stacks.
+This is my digital playground — where code meets curiosity. I'm a Data Engineer, Analyst, and Scientist, with a passion for transforming raw data into actionable insights and intelligent systems.
+
+Whether it's building data pipelines, wrangling large datasets, running experiments, or diving deep into modeling, this space is where I explore, break, fix, learn, and innovate with a wide arsenal of tools and stacks.
 
 
 ![Header](https://github.com/wesonga/wesonga/blob/main/bob.gif)
@@ -10,93 +12,71 @@ Canvas to learn, relearn, explore, experiment, and innovate with a diverse array
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg) <br />
 Who doesn't love a good 'Do Whatever You Want' license?
 
-### Languages
+---
 
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![Objective-C](https://img.shields.io/badge/-Objective--C-000?&logo=Apple&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+### 🔬 What I Work With
+
+#### Languages I Speak Fluently
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=CC342D)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?&logo=Ruby%20on%20Rails&logoColor=CC0000)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp&logoColor=239120)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU%20Bash)
 
-### Technologies
+---
 
-![iOS](https://img.shields.io/badge/-iOS-000?&logo=iOS)
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![Xamarin](https://img.shields.io/badge/-Xamarin-000?&logo=Xamarin)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000?&logo=Spring%20Boot)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-000?&logo=APIs)
-![OAuth](https://img.shields.io/badge/-OAuth-000?&logo=OAuth)
-![JWT](https://img.shields.io/badge/-JWT-000?&logo=JWT)
-![APNs](https://img.shields.io/badge/-APNs-000?&logo=Apple)
-![FCM](https://img.shields.io/badge/-FCM-000?&logo=Firebase)
-![Firestore](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket)
-![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=CircleCI)
-![New Relic](https://img.shields.io/badge/-New_Relic-000?&logo=New%20Relic)
-![Stripe](https://img.shields.io/badge/-Stripe-000?&logo=Stripe)
-![PayPal](https://img.shields.io/badge/-PayPal-000?&logo=PayPal)
-![Square](https://img.shields.io/badge/-Square-000?&logo=Square)
-![Braintree](https://img.shields.io/badge/-Braintree-000?&logo=Braintree)
-![React Router](https://img.shields.io/badge/-React_Router-000?&logo=React%20Router)
-![Vue Router](https://img.shields.io/badge/-Vue_Router-000?&logo=Vue.js)
-![SwiperJS](https://img.shields.io/badge/-SwiperJS-000?&logo=Swiper)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Angular Router](https://img.shields.io/badge/-Angular_Router-000?&logo=Angular)
-![React Navigation](https://img.shields.io/badge/-React_Navigation-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Vuex](https://img.shields.io/badge/-Vuex-000?&logo=Vue.js)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-000?&logo=Microsoft%20SQL%20Server)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
-![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
-![NGRX](https://img.shields.io/badge/-NGRX-000?&logo=Angular)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![CouchDB](https://img.shields.io/badge/-CouchDB-000?&logo=Apache%20CouchDB)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)
-![Firebase Firestore](https://img.shields.io/badge/-Firebase_Firestore-000?&logo=Firebase)
-![Sentry](https://img.shields.io/badge/-Sentry-000?&logo=Sentry)
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
-![SSL/TLS](https://img.shields.io/badge/-SSL/TLS-000?&logo=SSL)
-![CSP](https://img.shields.io/badge/-CSP-000?&logo=CSP)
-![OWASP](https://img.shields.io/badge/-OWASP-000?&logo=OWASP)
-![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
-![Scrapy](https://img.shields.io/badge/-Scrapy-000?&logo=Scrapy)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
-![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+#### Data Engineering Toolbox
+
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=Apache%20Spark)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon%20AWS)
-![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-000?&logo=Google%20Cloud)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft%20Azure)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
+![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Apache%20Kafka)
+![Airflow](https://img.shields.io/badge/-Apache_Airflow-000?&logo=Apache%20Airflow)
+![dbt](https://img.shields.io/badge/-dbt-000?&logo=dbt%20Labs)
+![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=Snowflake)
+![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=Google%20Cloud)
+![Redshift](https://img.shields.io/badge/-Redshift-000?&logo=Amazon%20Redshift)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
+---
+
+#### Data Science & Analytics
+
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
+
+---
+
+#### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon%20AWS)
+![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google%20Cloud)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft%20Azure)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=CircleCI)
+
+---
+
+### 🧭 Still Exploring
+
+- Real-time analytics with Flink and Druid  
+- LLMOps, RAG systems, and prompt engineering  
+- Data mesh and decentralized data governance  
+
+---
+
+### ✨ Let’s Connect
+
+Always up for a good data discussion, building cool stuff, or just geeking out.  
+If you're solving something interesting — I’d love to hear about it.
