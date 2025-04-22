@@ -74,7 +74,7 @@ Who doesn't love a good 'Do Whatever You Want' license?
 
 #### Business Intelligence & Visualization
 
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-000?&logo=Microsoft%20Excel)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-000?logo=microsoft-excel)
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-000?logo=power-bi)
 ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-000?logo=tableau)
 ![Looker](https://img.shields.io/badge/-Looker-000?&logo=Looker)
