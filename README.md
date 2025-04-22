@@ -108,6 +108,7 @@ Who doesn't love a good 'Do Whatever You Want' license?
 ![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=CircleCI)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
 
 ---
 
