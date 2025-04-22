@@ -106,8 +106,8 @@ Who doesn't love a good 'Do Whatever You Want' license?
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=CircleCI)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux)
 
 ---
 
