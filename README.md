@@ -75,8 +75,8 @@ Who doesn't love a good 'Do Whatever You Want' license?
 #### Business Intelligence & Visualization
 
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-000?&logo=Microsoft%20Excel)
-![Power BI](https://img.shields.io/badge/-Power_BI-000?&logo=Power%20BI)
-![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)
+![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)
 ![Looker](https://img.shields.io/badge/-Looker-000?&logo=Looker)
 ![Google Data Studio](https://img.shields.io/badge/-Google_Data_Studio-000?&logo=Google%20Analytics)
 ![Metabase](https://img.shields.io/badge/-Metabase-000?&logo=Metabase)
@@ -106,6 +106,8 @@ Who doesn't love a good 'Do Whatever You Want' license?
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-000?&logo=CircleCI)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
